@@ -6,7 +6,7 @@ This tool monitors the availability of HTTP/HTTPS endpoints based on a YAML conf
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/endpoint-monitoring.git
+   git clone https://github.com/bhushanshirsat99/endpoint-monitoring
    cd endpoint-monitoring
    ```
 
